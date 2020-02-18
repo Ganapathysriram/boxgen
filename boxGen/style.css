@@ -1,0 +1,11 @@
+#newsection{
+    width: 120px;
+    height: 120px;
+    padding: 50px;
+    margin: 30px;
+    display: inline-flex;
+
+}
+button{
+    size: 50%;
+}
